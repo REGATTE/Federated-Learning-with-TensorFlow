@@ -21,3 +21,5 @@ node train_on_cpus.js
 node convert_tfjs_to_keras.js
 python client_fed_average.py
 ```
+
+youtube video link: https://youtu.be/iihM0-rcXrM
